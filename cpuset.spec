@@ -16,7 +16,7 @@ Release:        %mkrel 1
 License:        GPL v2 only
 BuildRoot:      %{_tmppath}/%{name}-%{version}-build
 Url:            http://developer.novell.com/wiki/index.php/Cpuset
-Group:          System/Management
+Group:          System/Cluster
 Summary:        Allows manipulation of cpusets on system and provides higher level functions
 Source:         %{name}-%{version}.tar.gz
 BuildRequires:  python-devel
