@@ -1,7 +1,7 @@
 Summary:	Allows manipulation of cpusets on system and provides higher level functions
 Name:		cpuset
 Version:	1.5.5
-Release:	8
+Release:	9
 License:	GPLv2
 Group:		System/Kernel and hardware
 Url:		http://code.google.com/p/cpuset
