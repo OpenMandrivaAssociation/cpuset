@@ -1,6 +1,6 @@
 Summary:	Allows manipulation of cpusets on system and provides higher level functions
 Name:		cpuset
-Version:	1.6.1
+Version:	1.6.2
 Release:	1
 License:	GPLv2
 Group:		System/Kernel and hardware
