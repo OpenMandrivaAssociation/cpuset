@@ -4,7 +4,7 @@ Version:	1.6.2
 Release:	1
 License:	GPLv2
 Group:		System/Kernel and hardware
-Url:		http://code.google.com/p/cpuset
+Url:		https://code.google.com/p/cpuset
 Source0:	https://github.com/lpechacek/cpuset/archive/v%{version}.tar.gz
 BuildRequires:	pkgconfig(python3)
 BuildArch:	noarch
