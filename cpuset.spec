@@ -7,6 +7,7 @@ Group:		System/Kernel and hardware
 Url:		https://code.google.com/p/cpuset
 Source0:	https://github.com/lpechacek/cpuset/archive/v%{version}.tar.gz
 BuildRequires:	pkgconfig(python3)
+BuildRequires:	python%{pyver}dist(setuptools)
 BuildArch:	noarch
 
 %description
